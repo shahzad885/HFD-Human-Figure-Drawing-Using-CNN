@@ -17,7 +17,7 @@ A compact transfer-learning classifier that distinguishes human figure drawings 
 * [Model architecture](#model-architecture)
 * [Evaluation & visualizations](#evaluation--visualizations)
 * [Tips & notes](#tips--notes)
-* [License & Contact](#license--contact)
+
 
 ---
 # Frontend:
