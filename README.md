@@ -198,9 +198,3 @@ The notebook includes:
 (Exact metrics vary by random seed, augmentation, and whether last layers were unfrozen. See the notebook training plot cells.)
 
 ---
-
-# License & contact
-
-This example code is provided for educational/research purposes. If you adapt the code for publication or distribution, please add an appropriate license to this repo.
-
-
